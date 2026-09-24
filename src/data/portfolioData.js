@@ -304,13 +304,13 @@ export const projects = [
     id: "portfolio-website",
     number: "03",
     badge: "✨ Featured Project",
-    title: "Modern Cinematic Portfolio",
+    title: "Portfolio",
     description:
       "A responsive personal portfolio website showcasing projects, skills, certifications, and professional achievements. Implemented modern UI, smooth animations, talking video Hero, and interactive credentials download.",
     techTags: ["React.js", "Tailwind CSS", "JavaScript", "Vite", "Framer Motion"],
     links: {
-      github: "https://github.com/neeraj2002-gupta",
-      demo: "#",
+      github: "https://github.com/neeraj2002-gupta/Neeraj-Portfolio.git",
+      demo: "https://neeraj-portfolio-six-virid.vercel.app",
     },
     isFlagship: false,
   },

@@ -62,7 +62,7 @@ const ProjectCard = ({ project, aosDelay }) => (
       <div className="flex flex-wrap gap-3">
         {/* GitHub */}
         {project.links.github && (
-          <a 
+          <a
             href={project.links.github}
             target="_blank"
             rel="noopener noreferrer"
