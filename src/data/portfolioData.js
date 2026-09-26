@@ -17,7 +17,7 @@ export const personalInfo = {
   },
   summary:
     "I build responsive websites and full-stack web applications using React.js, JavaScript, Node.js, Python, Supabase, and MySQL. I focus on creating practical, user-friendly web projects and continuously improving my development skills.",
-  resumeUrl: "/Neeraj-Resume-2026.pdf",
+  resumeUrl: "Real_Resume College.pdf",
 };
 
 export const socialLinks = {
